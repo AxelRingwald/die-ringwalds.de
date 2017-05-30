@@ -1,0 +1,22 @@
+body,table,td,tr,div,p,pre,h1,h2,h3,h4,ul {font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;}
+body,td,div,p,pre,ul {font-size: 13px;}
+
+h1 {font-size: 28px;}
+h2 {font-size: 20px;}
+h3 {font-size: 18px;}
+
+.small {font-size: 12px;}
+.mini {        font-size: 11px;}
+.minimini {        font-size: 10px;}
+a {        font-size: 14px; text-decoration: none; }
+a:link { font-size: 14px; color: #000000;}
+a:visited {        color: #7d653c;}
+a:active {color: #000000;}
+a:hover{ color: #0000FF; text-decoration: underline;}
+
+.Text-Type1 { text-align: justify }
+.Text-Type2 { text-align: center }
+.Text-Type3 { text-align: left }
+
+p.Text-Type4 { font-size: 16px; text-decoration: none; }
+body { background-color:#FFFFFF; }
